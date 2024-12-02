@@ -18,15 +18,16 @@ wd-weno is an open-source Python module for polynomial interpolation algorithm b
 
 ## Getting started
 
-
 ### Prerequisites
 - Python 3.12 or later
 - Dependencies
   - NumPy
   - SciKit-image
   - Numba
+
 ### Installation
 Download `wdweno` directory and start using it.
+
 ### Quick Start
 ```
 import wdweno
@@ -34,6 +35,8 @@ import wdweno
 wdweno.wdweno(in_image=<path to input image>, out_image=<path to output image>,
                 method='2x', scale_exp=1, beta=2)
 ```
+Or simply take a look at the examples directory.
+
 
 ## License
 wd-weno is licensed under the [GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/#).
@@ -47,8 +50,8 @@ lease note that derivative works must also be licensed under the GPL.
   title        = {wdweno: WENO Based Adaptive Image Zooming Algorithm},
   year         = {2024},
   version      = {0.1.0},
-  doi          = {10.1234/awesomescitool.2024.001},
-  url          = {https://github.com/username/AwesomeSciTool}
+  doi          = {10.1234/wdweno.2024.001 - to be determined},
+  url          = {https://github.com/jskific/wdweno}
 }
 ```
 
