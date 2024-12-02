@@ -2,8 +2,8 @@
 
 WENO based adaptive image zooming algorithm
 
-[<img width="300px" src="images/fig_02_head.png">]
-[<img width="300px" src="images/fig_02_head_q16x_exponent_2.0.png">]
+<img width="300px" src="images/fig_02_head.png">
+<img width="300px" src="images/fig_02_head_q16x_exponent_2.0.png">
 
 
 
