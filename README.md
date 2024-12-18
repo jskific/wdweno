@@ -50,7 +50,7 @@ lease note that derivative works must also be licensed under the GPL.
   title        = {wdweno: WENO Based Adaptive Image Zooming Algorithm},
   year         = {2024},
   version      = {0.1.0},
-  doi          = {10.1234/wdweno.2024.001 - to be determined},
+  doi          = {10.1016/j.amc.2024.129228},
   url          = {https://github.com/jskific/wdweno}
 }
 ```
